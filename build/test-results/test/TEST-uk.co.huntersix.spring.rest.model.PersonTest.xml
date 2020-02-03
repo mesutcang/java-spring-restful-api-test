@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.co.huntersix.spring.rest.model.PersonTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-02-02T19:43:07" hostname="Mesuts-MacBook-Pro-2.local" time="0.002">
+  <properties/>
+  <testcase name="idsShouldBeDifferent" classname="uk.co.huntersix.spring.rest.model.PersonTest" time="0.002"/>
+  <testcase name="shouldBeDifferent" classname="uk.co.huntersix.spring.rest.model.PersonTest" time="0.0"/>
+  <testcase name="shouldAssignIdWhenCreated" classname="uk.co.huntersix.spring.rest.model.PersonTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
